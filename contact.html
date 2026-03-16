@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Team</title>
+    <!-- FONTS-->
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/components/teams/team-1/assets/css/team-1.css">-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/smooth-scroll@16/dist/smooth-scroll.polyfills.min.js"></script>
+    <style>
+        #map {
+            width: 100%;
+            /* Make the map take full width */
+            height: 500px;
+            /* Set a fixed height, otherwise it won't show */
+        }
+    </style>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div id="scene" style="position: fixed;">
+        <div id="particles-js" data-depth="0.3" data-friction-x="0.05" data-friction-y="0.05"></div>
+    </div>
+
+
+    <!-- Navigation-->
+    <section>
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container-fluid px-4 px-lg-5">
+                <div>
+                
+
+                <a class="logo" href="index.html">
+                    <img src="assets/img/logo.png" alt="Control&Habit Logo" style="height: 60px;">
+                </a>
+
+
+
+
+                <a class="navbar-brand" href="index.html">ctrl+habit</a>
+                </div>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto fw-bold">
+                        <li class="nav-item"><a class="nav-link" href="papers.html">Papers</a></li>
+                        <li class="nav-item"><a class="nav-link" href="lines.html">Research</a></li>
+                        <li class="nav-item"><a class="nav-link" href="methods.html">Methods</a></li>
+                        <li class="nav-item"><a class="nav-link" href="statement.html">Work Enviroment</a></li>
+                        <li class="nav-item"><a class="nav-link" href="team.html">Team</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    </ul>
+                    <img class="pe-3" src="assets/img/CNC.png" alt="Control&Habit Logo" style="height: 60px;">
+                    <img class="logo" src="assets/img/csic.png" alt="Control&Habit Logo"
+                        style="height: 60px;border-radius: 50%;">
+                        
+                </div>
+            </div>
+        </nav>
+    </section>
+
+
+
+    <div id="swup" class="transition-fade">
+        <section class="projects-section container-fluid masthead" style="overflow: hidden;">
+            <div class="container-fluid position-relative">
+                <h1 class="text-center main-title">Where to find us</h1>
+                <div class="container" style="height:100vh">
+                    <div class="row">
+                        <!-- Map Div taking 50% width -->
+                        <div class="col-12">
+                            <div id="map" class="border" style="height: 30vh; width: 100%;"></div>
+                        </div>
+
+                        <!-- Lorem Ipsum Div taking the other 50% width -->
+                        <div class="col-12">
+                            <div class="py-2 text-white">
+                                <div class="fw-bolder">PRINCIPAL INVESTIGATOR</div>
+                                <div class="fw-bold">Ignacio Obeso</div>
+                                <div class="fw-light">Cajal Neuroscience Centre (CNC)</div>
+                                <div class="fw-light fst-italic">Consejo Superior de Investigaciones Científicas (CSIC)</div>
+                                <div>Avda. de León, s/n 28805 Alcalá de Henares, Madrid, Spain</div>
+                                <div class="fw-light">iobeso[at]csic.es</div>
+                                <div>Public transport from Madrid: Bus 227 from Avenida América or Canillejas, as well
+                                    as
+                                    Renfe Cercanías train C2 towards Guadalajara</div>
+                            </div>
+                        
+                        </div>
+
+                    </div>
+                    <div class="row" style="height:25vh">
+                        <div id="carouselExampleSlidesOnly"
+                            class="carousel carousel-fade d-flex align-items-center justify-content-center"
+                            data-bs-interval="5000" data-bs-ride="carousel">
+                            <div data-aos="fade" data-aos-delay="600" data-aos-duration="600"
+                                data-aos-easing="ease-in-out" class="carousel-inner"
+                                style="border-radius: 0px; height: 75vh; width:75vh">
+                                <div class="carousel-item active border" style="aspect-ratio:16/6">
+                                    <video id="CNC" style="height:100%; width: 100%; object-fit:cover" autoplay muted
+                                        playsinline disablePictureInPicture>
+                                        <source src="assets/img/ci2a.mp4" type="video/mp4">
+                                    </video>
+                                    <div class="gradient-overlay"></div>
+                                </div>
+                                <div class="carousel-item border" style="aspect-ratio:16/6">
+                                    <img src="assets/img/ci2a2.jpg" style="height:100%; width: 100%; object-fit:cover">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+    </div>
+    <script src="https://unpkg.com/swup@4"></script>
+    <script src="js/scripts.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const video = document.getElementById("CNC");
+        video.playbackRate = 0.70;  // Slower speed (0.5x)
+    </script>
+    <script>
+        particlesJS("particles-js", {
+            "particles": {
+                "number": {
+                    "value": 100,   // Number of particles
+                    "density": {
+                        "enable": true,
+                        "value_area": 800   // Defines the density of the particles
+                    }
+                },
+                "color": {
+                    "value": "#d3d3d3"   // Set particle color to red (you can change this to any color you like)
+                },
+                "shape": {
+                    "type": "circle",   // Type of particles (circle, edge, triangle, etc.)
+                    "stroke": {
+                        "width": 0,
+                        "color": "#a9a9a9"
+                    }
+                },
+                "size": {
+                    "value": 3,   // Size of the particles
+                    "random": true
+                },
+                "move": {
+                    "enable": true,
+                    "speed": 3,    // Speed of particle movement
+                    "direction": "random",  // Random direction of movement
+                    "random": true,
+                    "straight": false
+                },
+                "line_linked": { "enable": true, "distance": 150, "color": "#a9a9a9", "opacity": 0.4, "width": 1 },
+
+            },
+
+
+            "interactivity": {
+                "events": {
+                    "onhover": {
+                        "enable": false,
+                        "mode": "repulse"   // Repulse particles on hover
+                    },
+                    "onclick": {
+                        "enable": false,  // Disable click effect
+                        "mode": "push"
+                    }
+                }
+            },
+
+            "retina_detect": true
+        });
+    </script>
+
+    <script>
+        const scroll = new SmoothScroll('a[href*="#"]', {
+            speed: 2000, // 🐌 slow scroll (in ms)
+            speedAsDuration: true,
+            easing: 'easeInOutCubic' // smooth easing
+        });
+    </script>
+
+
+    <script>var scene = document.getElementById('scene');
+        var parallaxInstance = new Parallax(scene);</script>
+
+
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+</body>
+
+</html>
