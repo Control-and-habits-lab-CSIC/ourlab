@@ -2,7 +2,7 @@
   {
     "name": "Ignacio Obeso",
     "position": "Principal Investigator",
-    "image": "assets/img/obeso.jpg",
+    "image": "ourlab/assets/img/obeso.jpg",
     "description": "As a neuroscientist, my main interest is to understand the brain basis for flexible and automatic cognitive control over decisions, habitual performance and emotionally-driven behaviours. Causal and neuroimaging methods allow me establishing brain-behaviour relationships in fundamental cognitive operations that guide the rationale to potentially exert some impact in clinical conditions. I also love playing/listening music, making bread and reading. ",
     "info": [
       {
@@ -22,7 +22,7 @@
   {
     "name": "Nicola Ngombe",
     "position": "Post-doc",
-    "image": "assets/img/ngombe.png",
+    "image": "ourlab/assets/img/ngombe.png",
     "description": "I completed my MSc in Cognitive Neuroscience at the University of York and my PhD in Neuroscience at Aston University (UK), where I focused on interpersonal emotion regulation. I’m interested in how socio-emotional processes unfold between people — I use dyadic paradigms, psychophysiological methods, and fMRI to explore emotion regulation. In my postdoc, I’m investigating the neural networks that shape our emotional habits. Outside of research, you’ll often find me traveling, cooking, or out on a hike.",
     "info": [
       {
@@ -42,7 +42,7 @@
   {
     "name": "Alejandro Sospedra Orellano",
     "position": "PhD",
-    "image": "assets/img/sospedra.jpg",
+    "image": "ourlab/assets/img/sospedra.jpg",
     "description": "I obtained a Psychology degree (UNED) and a master's degree in neuroscience (at the Institute of Neuroscience of Alicante). Now I'm now following my passion into research thanks to a PhD scholarship (from the University of Campania “Luigi Vanvitelli”, Naples, Italy) trying to explain the different roles of dopamine in human decision-making systems. At CNC (Alcalá de Henares, Madrid, Spain), I combine behavioral experiments with computational modelling, my own theoretical ideas, neuroimaging and neuromodulation techniques to answer the scientific questions. In my free time, I love writing, listening to a lot of music genres, hiking and biking as well as videogames.",
     "info": [
       {
@@ -62,7 +62,7 @@
   {
     "name": "Sangram Behera",
     "position": "PhD",
-    "image": "assets/img/behera.jpg",
+    "image": "ourlab/assets/img/behera.jpg",
     "description": "I am a PhD candidate investigating the neurobiological interface of language, emotion and action. My work employs methods like Transcranial Magnetic Stimulation (TMS) to probe motor cortex (M1), examining how emotional words prime neural circuits. My other research areas also involve investigating the role of mirror neuron systems in aesthetics and empathetic responses. Bridging experimental neuroscience with photographic art, I seek to visualize and quantify the hidden architectures where meaning is formed in the brain and expressed in culture.",
     "info": [
       {
@@ -86,7 +86,7 @@
   {
     "name": "Lorena Aguera",
     "position": "PhD",
-    "image": "assets/img/aguera.png",
+    "image": "ourlab/assets/img/aguera.png",
     "description": "I am a returned migrant with a passion for neuroscientific research. Following my Master’s degree in Psychological Research by UNED, I have been brought closer to home through a PhD fellowship opportunity at CNC (CSIC). I am interested in the study of the neural correlates underlying emotional and cognitive processes and how these interact while learning or shaping adaptive behaviours. Outside the lab, I enjoy slow travel and spending time outdoors in nature.",
     "info": [
       {
@@ -98,7 +98,7 @@
     {
     "name": "Moira Escribano",
     "position": "PhD",
-    "image": "assets/img/escribano.jpg",
+    "image": "ourlab/assets/img/escribano.jpg",
     "description": "After completing a Master's degree in General Health Psychology at CEU San Pablo, I have started a PhD in neuroscience at the Universidad Autónoma de Madrid (UAM). Along this path, I will study the non-motor symptoms of Parkinson's disease before and after the HIFU procedure. In addition, I will focus on inhibitory learning in the early stages of Parkinson's disease. I also love powerlifting, animals, learning new languages and spending time with the people I love.",
     "info": [
     ]
@@ -106,7 +106,7 @@
   {
     "name": "Chema Ortega Nicolás",
     "position": "PhD",
-    "image": "assets/img/ortega.jpg",
+    "image": "ourlab/assets/img/ortega.jpg",
     "description": "Following my Master’s degree in Neuropsychological Assessment and Rehabilitation (Camilo José Cela University, 2021), I have now been awarded a scholarship for a PhD in Cognitive Neuroscience (University of Campania “Luigi Vanvitelli”, Naples, Italy) and HM-CINAC (Madrid). I will focus on deciphering how dopamine modulates emotional, motivational and habitual performance in patients with Parkinson’s Disease. I aim to execute a series of  behavioural tasks and neuroimaging studies to solve the questions. Other passions include clinical neuropsychology. In my free time, you can find me exercising (gym and calisthenics, mainly), reading or playing videogames.",
     "info": [
 
@@ -115,7 +115,7 @@
   {
     "name": "Mario Michiels",
     "position": "PhD",
-    "image": "assets/img/michiels.png",
+    "image": "ourlab/assets/img/michiels.png",
     "description": "After a B.Sc. degree in Software Engineering at the Complutense University of Madrid (UCM, 2017), I obtained a M.Sc. degree in Biomedical Engineering at the San Antonio University of Murcia (UCAM) in 2019. Then, I collaborated in neuroscience projects such as the Human Brain Project (HBP) at UPM (2017- 2019). Currently, Im conducting a PhD in neuroscience in the Universidad Autónoma de Madrid and HM-CINAC focusing on studying habitual behaviour with tasks and neuroimaging studies making use of computational models. I also enjoy watching movies/tv shows, videogames, and programming as a hobby.",
     "info": [
       {
@@ -127,7 +127,7 @@
   {
     "name": "Marta Navarro Bernad",
     "position": "Master",
-    "image": "assets/img/bernad.jpg",
+    "image": "ourlab/assets/img/bernad.jpg",
     "description": "After obtaining a Psychology degree at UMH, I am currently pursuing a Master’s in Cognitive Neuroscience and Neuropsychology at URJC, with a grant given by the CSIC. For my Master’s thesis, I aim to unravel the cognitive mechanisms and electrophysiological activity involved in action inhibition by analyzing ERPs in EEG recordings in healthy subjects. I have a deep passion for research that began when I did a year abroad at Michigan, USA, and I continued carrying it out in both national and international contexts such as Florence, Italy or Instituto de Neurociencias de Alicante, Spain. My main interest outside the lab is anything music related, from listening to it to (attempting to) dj.",
     "info": [
     ]
@@ -135,7 +135,7 @@
     {
     "name": "Luis Gómez",
     "position": "Research Assistant",
-    "image": "assets/img/luis.jpeg",
+    "image": "ourlab/assets/img/luis.jpeg",
     "description": "Bachelor's in physics. Master's in teaching. Research for passion. I want to build bridges between physics and neuroscience. Caos. Dynamics. Roughening. Universalities. Learning technics from empiric psychology. Applying models with python. Discovering integrated information theory (IIT). Cofounder of FunnyFace.",
     "info": [
     ]
