@@ -141,6 +141,10 @@ body {
   height: 200px;
 }
 
+            .team-member img {
+                border-radius: 50%;
+                padding-bottom: 8px;
+            }
 
 
 .logo {
