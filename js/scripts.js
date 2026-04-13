@@ -142,13 +142,13 @@ function equipoLoad() {
                 const card = document.createElement('div');
                 card.className = 'team-member row py-2';
                 const cardInfo = document.createElement('div');
-                cardInfo.className = 'team-member-info col-12 col-md-7 col-lg-7 ';
+                cardInfo.className = 'team-member-info col-12 col-md-6 col-lg-8 ';
 
                 const cardPic = document.createElement('div');
-                cardPic.className = "col-12 col-md-5 col-lg-5";
+                cardPic.className = "col-12 col-md-6 col-lg-4";
 
                 const img = document.createElement('img');
-                img.className = "img-fluid";
+                img.className = "img-fluid px-5";
                 img.src = `/${member.image || 'placeholder.jpg'}`;
                 img.alt = member.name || 'Team member';
                 img.loading = 'lazy';
