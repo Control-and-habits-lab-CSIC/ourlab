@@ -127,8 +127,16 @@
   {
     "name": "Marta Navarro Bernad",
     "position": "Master",
-    "image": "ourlab/assets/img/bernad.jpg",
+    "image": "assets/img/bernad.jpg",
     "description": "After obtaining a Psychology degree at UMH, I am currently pursuing a Master’s in Cognitive Neuroscience and Neuropsychology at URJC, with a grant given by the CSIC. For my Master’s thesis, I aim to unravel the cognitive mechanisms and electrophysiological activity involved in action inhibition by analyzing ERPs in EEG recordings in healthy subjects. I have a deep passion for research that began when I did a year abroad at Michigan, USA, and I continued carrying it out in both national and international contexts such as Florence, Italy or Instituto de Neurociencias de Alicante, Spain. My main interest outside the lab is anything music related, from listening to it to (attempting to) dj.",
+    "info": [
+    ]
+  },
+    {
+    "name": "Luis Gómez",
+    "position": "Research Assistant",
+    "image": "assets/img/luis.jpeg",
+    "description": "Bachelor's in physics. Master's in teaching. Research for passion. I want to build bridges between physics and neuroscience. Caos. Dynamics. Roughening. Universalities. Learning technics from empiric psychology. Applying models with python. Discovering integrated information theory (IIT). Cofounder of FunnyFace.",
     "info": [
     ]
   }
