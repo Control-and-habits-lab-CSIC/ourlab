@@ -1,4 +1,12 @@
+2026
+
+- Ortega, J. M., Regodón, B., Roncero, M., Civeira, I., Ferre-Navarrete, F., & Obeso, I. (2026). Neural correlates of internet gaming disorder and gambling disorder: An fMRI meta-analysis. Addictive Behaviors, 178, 108655. https://doi.org/10.1016/j.addbeh.2026.108655
+
 2025
+
+- M Michiels, V Man, D Luque, I Obeso. The Neural Basis of Habit Formation Measured in Goal-Directed Response Switching. iScience. Volume 29, Issue 2114568 February 20, 2026 https://doi.org/10.1016/j.isci.2025.114568
+
+- M Michiels, D Luque, I Obeso. Implicit and explicit reversal of trained oculomotor movements. Neurobiology of Learning and Memory. 2025. Volume 223, January 2026, 108114. https://doi.org/10.1016/j.nlm.2025.108114
 
 - K Farber, L Jiang, M Michiels, I Obeso, HC Leung. Microsaccade Activity During Visuospatial Working Memory in Early-Stage Parkinson’s Disease. 2025 Journal of Eye Movement Research 18 (5), 46 https://doi.org/10.3390/jemr18050046
 
