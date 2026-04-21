@@ -13141,14 +13141,7 @@ html.is-animating .transition-fade {
   -webkit-background-clip: text;
   background-clip: text;
 }
-@media (prefers-color-scheme: dark) {
-.masthead h1,
-.masthead .h1 {
-      background: none;
-    -webkit-text-fill-color: white;
-    color: white;
-}
-}
+
 
 .masthead h2,
 .masthead .h2 {
