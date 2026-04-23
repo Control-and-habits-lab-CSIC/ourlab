@@ -111,19 +111,7 @@
     "info": [
 
     ]
-  },
-  {
-    "name": "Mario Michiels",
-    "position": "PhD",
-    "image": "assets/img/michiels.png",
-    "description": "After a B.Sc. degree in Software Engineering at the Complutense University of Madrid (UCM, 2017), I obtained a M.Sc. degree in Biomedical Engineering at the San Antonio University of Murcia (UCAM) in 2019. Then, I collaborated in neuroscience projects such as the Human Brain Project (HBP) at UPM (2017- 2019). Currently, Im conducting a PhD in neuroscience in the Universidad Autónoma de Madrid and HM-CINAC focusing on studying habitual behaviour with tasks and neuroimaging studies making use of computational models. I also enjoy watching movies/tv shows, videogames, and programming as a hobby.",
-    "info": [
-      {
-        "label": "Scholar",
-        "url": "https://scholar.google.es/citations?user=nFXSPAcAAAAJ&hl=es"
-      }
-    ]
-  },
+  },  
   {
     "name": "Iván Temple Sereijo",
     "position": "PhD",
