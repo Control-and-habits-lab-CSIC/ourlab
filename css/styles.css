@@ -13283,10 +13283,3 @@ html.is-animating .transition-fade {
   padding: 5rem 0;
 }
 
-h1 .subtitle {
-  display: block;
-  font-size: 0.65em !important;
-  opacity: 0.85;
-  margin-top: 5px;
-}
-
